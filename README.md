@@ -122,8 +122,7 @@ Hospital_Appointment_Analysis/
 │ ├── 04_visuals_and_insights.ipynb
 │ └── 05_predictive_modelling.ipynb
 ├── sql/
-├── powerbi/
-├── visuals/
+├── powerbi_visuals
 └── README.md
 
 ---
