@@ -111,20 +111,22 @@ The models confirm the same story found in the exploratory analysis: **waiting t
 ---
 ## Project Structure
 
+```
 Hospital_Appointment_Analysis/
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 ├── notebooks/
-│ ├── 01_data_understanding.ipynb
-│ ├── 02_data_cleaning.ipynb
-│ ├── 03_eda.ipynb
-│ ├── 04_visuals_and_insights.ipynb
-│ └── 05_predictive_modelling.ipynb
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_eda.ipynb
+│   ├── 04_visuals_and_insights.ipynb
+│   └── 05_predictive_modelling.ipynb
 ├── sql/
-├── powerbi_visuals
+├── powerbi/
+├── visuals/
 └── README.md
-
+```
 ---
 
 ## Conclusion
